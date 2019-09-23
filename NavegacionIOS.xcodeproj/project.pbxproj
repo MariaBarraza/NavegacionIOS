@@ -14,6 +14,8 @@
 		3D39C2E323396A63001BCE84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D39C2E123396A63001BCE84 /* LaunchScreen.storyboard */; };
 		3D39C2EE23396A63001BCE84 /* NavegacionIOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D39C2ED23396A63001BCE84 /* NavegacionIOSTests.swift */; };
 		3D39C2F923396A63001BCE84 /* NavegacionIOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D39C2F823396A63001BCE84 /* NavegacionIOSUITests.swift */; };
+		3D39C307233970DF001BCE84 /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D39C306233970DF001BCE84 /* Materia.swift */; };
+		3D39C30923397224001BCE84 /* CalificacionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D39C30823397224001BCE84 /* CalificacionesController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3D39C2F423396A63001BCE84 /* NavegacionIOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavegacionIOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D39C2F823396A63001BCE84 /* NavegacionIOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavegacionIOSUITests.swift; sourceTree = "<group>"; };
 		3D39C2FA23396A63001BCE84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D39C306233970DF001BCE84 /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
+		3D39C30823397224001BCE84 /* CalificacionesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalificacionesController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				3D39C2DF23396A63001BCE84 /* Assets.xcassets */,
 				3D39C2E123396A63001BCE84 /* LaunchScreen.storyboard */,
 				3D39C2E423396A63001BCE84 /* Info.plist */,
+				3D39C306233970DF001BCE84 /* Materia.swift */,
+				3D39C30823397224001BCE84 /* CalificacionesController.swift */,
 			);
 			path = NavegacionIOS;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				3D39C2DB23396A61001BCE84 /* ViewController.swift in Sources */,
 				3D39C2D923396A61001BCE84 /* AppDelegate.swift in Sources */,
+				3D39C30923397224001BCE84 /* CalificacionesController.swift in Sources */,
+				3D39C307233970DF001BCE84 /* Materia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
